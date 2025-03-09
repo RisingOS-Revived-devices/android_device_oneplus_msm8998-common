@@ -6,6 +6,7 @@
 
 # Rising
 TARGET_ENABLE_BLUR := true
+TARGET_PREBUILT_BCR := false
 RISING_MAINTAINER := SirRGB
 
 # Add common definitions for Qualcomm
